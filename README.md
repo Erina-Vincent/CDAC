@@ -1,2 +1,2 @@
 # CDAC
-OpenStack Cloud
+OpenStack Heat is an orchestration tool used for managing the lifecycle of cloud applications in an OpenStack environment. Heat implements an orchestration engine to launch multiple composite cloud applications based on templates in the form of text files that can be treated like code. YAML-based Heat Orchestration Templates (HOT) to define the infrastructure and application deployment. Templates to define resources like instances, networks, subnets, security groups, floating IPs, and auto-scaling groups.
